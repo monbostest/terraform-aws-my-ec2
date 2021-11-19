@@ -4,7 +4,7 @@ variable "ami1" {
   
 }
 variable "instance_type" {
-    default = "t2.micro"
+    default = "t2.small"
    description = "This is Required"
   
 }
