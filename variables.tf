@@ -5,6 +5,6 @@ variable "ami1" {
 }
 variable "instance_type" {
     default = "t2.small"
-   description = "This is Required"
+   description = "Check cost"
   
 }
